@@ -6,4 +6,5 @@
 
 Current implementations:
 > [Rust](https://github.com/mjtbkh/max-21m-btc-exercise/tree/main/rust) by [@mjtbkh](https://github.com/mjtbkh)
+
 > [Go](https://github.com/mjtbkh/max-21m-btc-exercise/tree/main/go) by [@mjtbkh](https://github.com/mjtbkh)
