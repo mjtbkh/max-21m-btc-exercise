@@ -1,6 +1,6 @@
 # Rust implementation of Max 21M BTC exercise
 
-To start and see the reuslt:
+To start and see the result:
 
 ```bash
 cargo run
